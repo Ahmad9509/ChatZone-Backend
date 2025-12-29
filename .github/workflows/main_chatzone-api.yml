@@ -62,4 +62,5 @@ jobs:
           app-name: 'chatzone-api'
           slot-name: 'Production'
           package: .
+          startup-command: 'npm start'
           
